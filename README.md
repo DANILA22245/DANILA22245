@@ -1,7 +1,7 @@
 # 👋 Привет! Я Данила
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Python+QA;Django+%7C+FastAPI+%7C+Flask;DevOps+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Python+QA;Business+analyst;Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 Обо мне
