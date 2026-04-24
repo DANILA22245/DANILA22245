@@ -6,8 +6,8 @@
 
 ## 🚀 Обо мне
 
-Я тестировщик - автоматизатор на Python. Работаю в Федеральном Казначействе в проекте ГИС Торги.<br>
-Начинал с аналитики, со временем проявил инициативу и был допущен к тестированию.<br>
+Я тестировщик - автоматизатор на Python, аналитик. Работаю в Федеральном Казначействе в проекте ГИС Торги.<br>
+Начинал с аналитики, проявил инициативу, был допущен к тестированию<br>
 Активно развиваюсь в своем направлении, пишу требования для разработки сервисов, покрываю их тестами.<br>
 Здесь вы можете найти примеры моей работы в роли тестировщика.<br>
 К каждому скрипту я приложил README.txt, в котором написано, какую задачу решает этот скрипт.<br>
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
-  <img src="https://img.shields.io/badge/Pytest-#0A9EDC?style=for-the-badge&logo=Pytest&logoColor=white" alt="Pytest"/>
+  <img src="https://img.shields.io/badge/Pytest-007ACC?style=for-the-badge&logo=Pytest&logoColor=white" alt="Pytest"/>
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
   <img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white" alt="json"/>
   <img src="https://img.shields.io/badge/xml-005FAD?style=for-the-badge&logo=xml&logoColor=white" alt="xml"/>
@@ -70,6 +70,6 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zuperrino&style=flat-square&color=00FF00" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=DANILA22245&style=flat-square&color=00FF00" alt="Profile Views"/>
   <p><em>Спасибо за посещение моего профиля! 🚀</em></p>
 </div> 
